@@ -1,6 +1,9 @@
 # Felipe Diniz
 
-![img](https://img.shields.io/badge/⚡behind%20the%20code-Diniz%20Dev-red?logo=appveyor&style=for-the-badge)
+![img](https://img.shields.io/badge/⚡behind%20the%20code-Diniz%20Dev-yellow?logo=appveyor&style=for-the-badge)
+
+
+
 
 💻  Enthusiastic in the world of programming, I seek to learn day after day with self-taught knowledge.
 
