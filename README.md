@@ -1,8 +1,5 @@
-# Felipe Diniz :mage:
 
-
-![img](https://img.shields.io/badge/Diniz%20Dev-yellow?logo=&style=for-the-badge)
-<br />
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Lipe! :mage:</h1> 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Diniz-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-ribeiro-diniz/) 
