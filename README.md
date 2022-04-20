@@ -1,9 +1,11 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diniz! :mage:</h1> 
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diniz! 👨‍💻</h1> 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Diniz-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-ribeiro-diniz/) 
 [![Gmail Badge](https://img.shields.io/badge/-dinizdevmaster@gmail.com-FFFF00?style=flat-square&logo=Gmail&logoColor=black&link=mailto:dinizdevmaster@gmail.com)](mailto:dinizdevmaster@gmail.com)
+
+
 
 
 💻  Enthusiastic in the world of programming, I seek to learn day after day with self-taught knowledge.
