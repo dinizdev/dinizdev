@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dinizdevmaster@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=black&link=mailto:dinizdevmaster@gmail.com)](mailto:dinizdevmaster@gmail.com)
 
 
-
+##
 
 💻  Enthusiastic in the world of programming, I seek to learn day after day with self-taught knowledge.
 
