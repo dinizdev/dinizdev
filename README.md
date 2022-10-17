@@ -1,35 +1,7 @@
-<h1 align="center" >HI, there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated-dinizdev" />
-</p>
+<h1> Hi there! I'm Felipe Diniz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="dinizdev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dinizdev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="dinizdev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="dinizdev-GIT" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
-  <img align="center" alt="dinizdev-DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
-  <img align="center" alt="dinizdev-JEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg">
-  <img align="center" alt="dinizdev-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="dinizdev-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
-
-
-</div>
-
-<div align="center">
-  <h2> Connect with me! </h2>
-
-<div> 
-  <a href="https://instagram.com/dinizdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dinizdev@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-ribeiro-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-##
 
 💻  Enthusiastic in the world of programming, I seek to learn day after day with self-taught knowledge.
 
@@ -39,3 +11,14 @@
 
 > "Patience is one of the key elements for success."
 ― Bill Gates
+
+
+  <h2> Connect with me! </h2>
+
+
+ [![Instagram Badge](https://img.shields.io/badge/-dinizdev-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://www.instagram.com/dinizdev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Diniz-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/lipe-diniz) 
+[![Gmail Badge](https://img.shields.io/badge/-contato@fdiniz.dev-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fdiniz.dev)](mailto:contato@fdiniz.dev)
+
+ 
+</div>
