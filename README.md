@@ -16,9 +16,9 @@
   <h2> Connect with me! </h2>
 
 
- [![Instagram Badge](https://img.shields.io/badge/-dinizdev-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://www.instagram.com/dinizdev) 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Diniz-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/lipe-diniz) 
-[![Gmail Badge](https://img.shields.io/badge/-contato@fdiniz.dev-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fdiniz.dev)](mailto:contato@fdiniz.dev)
+ [![Instagram Badge](https://img.shields.io/badge/-dinizdev-138c19?style=flat-square&labelColor=138c19&logo=instagram&logoColor=white&link=https://www.instagram.com/dinizdev)](https://www.instagram.com/dinizdev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Diniz-138c19?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipe-diniz//)](https://www.linkedin.com/in/lipe-diniz) 
+[![Gmail Badge](https://img.shields.io/badge/-contato@fdiniz.dev-138c19?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fdiniz.dev)](mailto:contato@fdiniz.dev)
 
  
 </div>
